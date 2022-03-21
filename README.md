@@ -23,7 +23,7 @@ language -english
 
 [PC vercion](#computer)
 [see more](https://annazakavova.github.io/Relvise/)
-![Image alt](https://github.com/annazakavova/documents/raw/main/img/Relvise/PC.png)
+![Image alt](https://github.com/annazakavova/Relvise/raw/main/libs/img/PC.png)
 
 [tablet vercion](#tablet)
 [see more](https://annazakavova.github.io/Relvise/)
