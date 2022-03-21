@@ -23,15 +23,15 @@ language -english
 
 [PC vercion](#computer)
 [see more](https://annazakavova.github.io/Relvise/)
-![Image alt](https://github.com/annazakavova/documents/raw/main/img/Relvise/PC.png)
+![Image alt](https://github.com/annazakavova/Relvise/raw/main/libs/img/Relvise/PC.png)
 
 [tablet vercion](#tablet)
 [see more](https://annazakavova.github.io/Relvise/)
-![Image alt](https://github.com/annazakavova/documents/raw/main/img/Relvise/tablet.png)
+![Image alt](https://github.com/annazakavova/Relvise/raw/main/libs/img/Relvise/tablet.png)
 
 [phone vercion](#phone)
 [see more](https://annazakavova.github.io/Relvise/)
-![Image alt](https://github.com/annazakavova/documents/raw/main/img/Relvise/phone.png)
+![Image alt](https://github.com/annazakavova/Relvise/raw/main/libs/img/Relvise/phone.png)
 
 * __Acknowledgments__
 	YouTube channel ["Фрилансер по жизни - IT и фриланс"](https://www.youtube.com/channel/UCedskVwIKiZJsO8XdJdLKnA), for loyout in [Figma](https://www.patreon.com/posts/maket-dlia-figma-55661134) and explanation of working with grids
