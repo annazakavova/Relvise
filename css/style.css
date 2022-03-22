@@ -53,7 +53,6 @@ html, body {
 }
 /*----------------------------------------------------------------------------------------------------------------------*/
 /* HEADER */
-
 .header {
 	position: absolute;
 	width: 100%;
@@ -94,7 +93,6 @@ html, body {
 		margin: 0px 0px 0px 20px;
 	}
 }
-
 .menu {
 	padding: 5px 0px;
 }
@@ -118,33 +116,18 @@ html, body {
 		font-size: 18px;
 	}
 }
-
 /*----------------------------------------------------------------------------------------------------------------------*/
 /* PAGE */
 .page {
 	flex: 1 1 auto;
-}
-.page__main-block {
 }
 .page__services {
 	position: relative;
 	z-index: 2;
 	margin: -111px 0px 0px 0px;
 }
-.page__advantages {
-}
-.page__practice {
-}
-.page__whoweare {
-}
 .page__clients:not(:last-child) {
 	margin: 0px 0px 10px 0px;
-}
-.page__subscribe {
-}
-.page__getintouch {
-}
-.page__contact {
 }
 /*----------------------------------------------------------------------------------------------------------------------*/
 /* HEADER BLOCK */
@@ -173,13 +156,10 @@ html, body {
 		font-size: 30px;
 	}
 }
-
 /*----------------------------------------------------------------------------------------------------------------------*/
 /* MAIN */
 .main-block {
 	position: relative;
-}
-.main-block__container {
 }
 .main-block__body {
 	padding: 184px 0px 191px 0px;
@@ -238,7 +218,6 @@ html, body {
 .main-block__button_orange:not(:last-child) {
 	margin-right: 10px;
 }
-
 @media (max-width: 479px) {
 	.main-block__button {
 		flex: 1 1 100%;
@@ -283,16 +262,8 @@ html, body {
 		opacity: 0.5;
 	}
 }
-
 /*----------------------------------------------------------------------------------------------------------------------*/
 /* SERVICES */
-.services {
-}
-.services-block__container {
-}
-.services__body {
-
-}
 @media (min-width: 670px) {
 	.services__body {
 		display: flex;
@@ -323,8 +294,6 @@ html, body {
 	background-color: #fff;
 	padding: 35px;
 }
-.item-service {
-}
 .item-service_green {
 	background-color: #0D5C63;
 }
@@ -337,8 +306,6 @@ html, body {
 .item-service > *:not(:last-child) {
 	margin: 0px 0px 10px 0px;
 }
-.item-service__icon {
-}
 .item-service__tittle {
 	font-weight: 700;
 	letter-spacing: 0.1px;
@@ -350,7 +317,6 @@ html, body {
 	color: #737373;
 	line-height: 142%;
 }
-
 /*----------------------------------------------------------------------------------------------------------------------*/
 /* ADVANTAGES */
 .advantages {
@@ -365,8 +331,6 @@ html, body {
 	.advantages {
 		padding: 40px 0px;
 	}
-}
-.advantages__container {
 }
 .advantages__header {
 	margin-top: 0px 0px 50px 0px;
@@ -407,7 +371,6 @@ html, body {
 	margin: 0px 0px 10px 0px;
 }
 .advantages__icon {
-	
 	display: flex;
 	align-items: flex-end;
 	justify-content: center;
@@ -422,7 +385,6 @@ html, body {
 	line-height: 150%;
 	letter-spacing: 0.1px;
 }
-
 /*----------------------------------------------------------------------------------------------------------------------*/
 /* PRACTICE */
 .practice {
@@ -437,8 +399,6 @@ html, body {
 	.practice {
 		padding: 0px 0px 40px 0px;
 	}
-}
-.practice__container {
 }
 .practice__header {
 	margin: 0px 0px 45px 0px;
@@ -467,8 +427,6 @@ html, body {
 	.practice__coiumn {
 		flex: 0 1 100%;
 	}
-}
-.practice__item {
 }
 .item-practice {
 	background-color: #fff;
@@ -502,13 +460,10 @@ html, body {
 	display: block;
 	padding: 0px 0px 60% 0px;
 }
-
 /*----------------------------------------------------------------------------------------------------------------------*/
 /* WHOWEARE*/
 .whoweare {
 	padding: 80px 0px 130px 0px;
-}
-.whoweare__container {
 }
 .whoweare__header {
 	margin: 0px 0px 100px 0px;
@@ -551,8 +506,6 @@ html, body {
 }
 .whoweare__items {
 	margin: 50px 0px 0px 0px;
-}
-.whoweare__item {
 }
 .whoweare__item:not(:last-child) {
 	margin: 0px 0px 30px 0px;
@@ -633,8 +586,6 @@ html, body {
 		padding: 30px 0px;
 	}
 }
-.clients__container {
-}
 .clients__items {
 	display: flex;
 	align-items: center;
@@ -664,8 +615,6 @@ html, body {
 	height: 77px;
 	left: 0;
 	background: #252B42;
-}
-.subscribe__container {
 }
 .subscribe__body {
 	position: relative;
@@ -754,8 +703,6 @@ html, body {
 .getintouch {
 	padding: 80px 0px 135px 0px;
 }
-.getintouch__container {
-}
 .getintouch__header {
 	margin: 0px 0px 80px 0px;
 }
@@ -784,8 +731,6 @@ html, body {
 }
 .item-getintouch > *:not(:last-child) {
 	margin: 0px 0px 15px 0px;
-}
-.item-getintouch__icon {
 }
 .item-getintouch__emails {
 	display: flex;
@@ -854,10 +799,6 @@ html, body {
 	background-color: #fff;
 	padding: 42px 0px;
 }
-.getintouch__container {
-}
-.contact__body {
-}
 .contact__content {
 	padding: 0px 0px 20px 0px;
 }
@@ -900,13 +841,9 @@ html, body {
 }
 /*----------------------------------------------------------------------------------------------------------------------*/
 /* FOOTER */
-.footer {
-}
 .footer__top {
 	background: #17213C;
 	padding: 35px 0px;
-}
-.footer__main {
 }
 .footer_row {
 	display: flex;
@@ -940,14 +877,6 @@ html, body {
 	line-height: 150%;
 	padding: 0px 0px 20px 0px;
 }
-.footer__menu {
-}
-.menu-footer {
-}
-.menu-footer__list {
-}
-.menu-footer__item {
-}
 .menu-footer__item:not(:last-child) {
 	margin: 0px 0px 10px 0px;
 }
@@ -958,8 +887,6 @@ html, body {
 }
 .menu-footer__link:hover {
 	text-decoration: overline;
-}
-.footer__contacts {
 }
 .contacts-footer {
 	display: flex;
@@ -1008,8 +935,6 @@ html, body {
 .footer__social {
 	display: flex;
 	align-items: center;
-}
-.social {
 }
 .social__item:not(:last-child) {
 	margin:  0px 20px 0px 0px;
